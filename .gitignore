@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Raw experimental data
+data/
+*.pcap
+*.ss
+*.meta
+*.marker
+
+# Large archives
+*.zip
+
+# Local outputs
+*.log
